@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Pi_Network-violet)
 ![Static Badge](https://img.shields.io/badge/High-Tech-white)
-
+![Static Badge](https://img.shields.io/badge/Revolutination-gold)
 
 # PiVortex-Core
 The core repository for PiVortex, containing the foundational components driving innovation in Pi Network development.
